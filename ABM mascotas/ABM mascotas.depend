@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1589587619 source:c:\users\demi\desktop\abm mascotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"mascota.h"
+	"auxiliar.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+	"trabajo.h"
+
+1589588783 c:\users\demi\desktop\abm mascotas\mascota.h
+
+1589583150 source:c:\users\demi\desktop\abm mascotas\auxiliar.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"mascota.h"
+	"auxiliar.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+
+1589588357 c:\users\demi\desktop\abm mascotas\auxiliar.h
+
+1589587207 source:c:\users\demi\desktop\abm mascotas\mascota.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"mascota.h"
+	"auxiliar.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+
+1589588783 c:\users\demi\desktop\abm mascotas\tipos.h
+
+1589588582 c:\users\demi\desktop\abm mascotas\servicio.h
+
+1589588783 c:\users\demi\desktop\abm mascotas\color.h
+
+1589586089 source:c:\users\demi\desktop\abm mascotas\color.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"mascota.h"
+	"auxiliar.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+
+1589585345 source:c:\users\demi\desktop\abm mascotas\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"mascota.h"
+	"auxiliar.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+
+1589586013 source:c:\users\demi\desktop\abm mascotas\tipos.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"mascota.h"
+	"auxiliar.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+
+1589587289 source:c:\users\demi\desktop\abm mascotas\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"mascota.h"
+	"auxiliar.h"
+	"tipos.h"
+	"servicio.h"
+	"color.h"
+
+1589588783 c:\users\demi\desktop\abm mascotas\trabajo.h
+
